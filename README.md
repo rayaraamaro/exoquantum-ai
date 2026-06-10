@@ -330,6 +330,12 @@ Possíveis melhorias futuras incluem:
 - criar uma interface web para visualização dos resultados;
 - desenvolver um sistema de priorização de candidatos a exoplanetas.
 
+## Aplicabilidade do projeto
+
+Este projeto pode ser interpretado como uma solução de apoio à decisão para a priorização de candidatos a exoplanetas. Em vez de substituir a análise de especialistas, os modelos desenvolvidos podem funcionar como uma etapa preliminar de triagem, indicando quais objetos possuem características mais próximas de planetas confirmados e quais apresentam maior risco de serem falsos positivos.
+
+A principal utilidade da solução está em apoiar a organização de grandes volumes de dados astronômicos, destacando candidatos que merecem investigação mais detalhada. Além disso, a análise das matrizes de confusão permite avaliar quais tipos de erro são mais frequentes, principalmente em relação à classe `CANDIDATE`.
+
 ---
 
 ## Referências principais
